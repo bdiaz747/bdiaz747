@@ -14,6 +14,8 @@ Bienvenido a mi perfil de GitHub. Soy Desarrodor Backend con Python  apasionado 
 🌱 Actualmente estoy aprendiendo:
 
 - Analisis y Desarrollo de sotfware en el SENA.
+## CV
+- [Page](https://bdiaz747.github.io/)
 
 ## ¿Cómo contactarme?
 - Email: brahian.diazgarcia@gmail.com
