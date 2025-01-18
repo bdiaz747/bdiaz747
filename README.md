@@ -31,7 +31,7 @@ Bienvenido a mi perfil de GitHub. Soy Desarrodor Backend con Python  apasionado 
 
 ## 🔥 Mi actividad reciente
 
-<!--RECENT_ACTIVITY:star-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
 
