@@ -31,4 +31,7 @@ Bienvenido a mi perfil de GitHub. Soy Desarrodor Backend con Python  apasionado 
 
 ## 🔥 Mi actividad reciente
 
-![Timeline de actividad](https://activity-graph.herokuapp.com/graph?username=bdiaz747&bg_color=fff&color=0084ff&line=0064e1&point=00eaff&area=true&hide_border=true)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
