@@ -1,4 +1,4 @@
-name: Update README2
+name: Update README
 
 on:
   schedule:
@@ -9,16 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
-    
     steps:
       - uses: actions/checkout@v2.3.4
-
       - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
+      - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Optional: Add a debug step to check status codes
-      - name: Debug Status
-        run: |
-          echo "Status code: $?"
+on:
+
+&#x20; schedule:
+
+&#x20;   \- cron: '\*/12 \* \* \* \*'
+
+&#x20; workflow\_dispatch:
 
